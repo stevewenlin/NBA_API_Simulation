@@ -1,4 +1,4 @@
-# api_project - this work was done solo by Wen Lin, this was the best i can do given the time restraint. 
+# api_project 
 
 This project was done on the topic of NBA basketball: the goal of this work is to predict outcomes of the 2019-2020 NBA season. 
 
@@ -12,4 +12,4 @@ Findings:
 4) Players with extremely high PER, +/-, team winning% will likely win the MVP 
 5) Simuations are truly unbiased because it randomly samples distributions 
   
-
+This work was done solo by Wen Lin, this was the best i can do given the time restraint. 
